@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Export unchecked checklist items from docs/SYSTEM_ANALYSIS.md to Trello.
+ * Export unchecked checklist items from docs/SYSTEM_ANALYSIS.md to Trello. (SYSTEM_ANALYSIS.md is your markdown file)
  *
  * Env vars required:
  *   - TRELLO_KEY            → https://trello.com/app-key
