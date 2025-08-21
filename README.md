@@ -93,3 +93,8 @@ Headings are used for grouping:
 ```
 
 In this example, if `GROUP_BY=h4`, tasks will go to "Detail Group 1" and "Detail Group 2" lists. If `GROUP_BY=h3`, tasks will go to "Sub-Section A" and "Sub-Section B" lists.
+
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alharari01)
