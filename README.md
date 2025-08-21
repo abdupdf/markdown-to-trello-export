@@ -5,6 +5,8 @@ This script exports unchecked checklist items from a Markdown file generated fro
 here's when to use it, when you're working on a porject in Cursor and you have generated a to-do list for your project in markdown, you might want to export that to-do to Trello for your team or customer to see your progress. this script helps you to do that in seconds.
 it's customizable and to add more features for your own needs just open the script in Cursor and tell it to add (feature 1) or tell it to run it. 
 
+> P.S if it's confusing just tell Cursor to run it based on your project. 
+
 ## Setup
 
 1.  **Obtain Trello API Key and Token:**
